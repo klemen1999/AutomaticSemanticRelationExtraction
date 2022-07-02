@@ -9,7 +9,12 @@ Relation extraction is a task that requires automatic detection and classificati
 
 ![semantic network](./Report/network_vis2.png "Semantic network")
 
-### TermFrame dataset:
+### Special acknowledgment
+This project was choosen as the best on this topic and as one of three best projects overall
+
+## Data and models:
+ - TermFrame dataset:
 https://drive.google.com/drive/folders/1CnUIQwtE-81GccO3vwGps_tdbO8ccZPf?usp=sharing
-### Pretrained models:
+ - Pretrained models:
 https://drive.google.com/drive/folders/14ScGdr61YKbKd_wx2C0ZEsx0gsobfdrX?usp=sharing
+
